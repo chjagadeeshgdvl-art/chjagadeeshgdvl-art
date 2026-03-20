@@ -1,9 +1,7 @@
 # Hi, I'm jacks
 ### Engineering Student | Full-Stack Developer | AI & Cloud Enthusiast
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" width="435">
-</div>div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Open+Source+Contributor)
 
 ---
 
@@ -22,8 +20,6 @@
         ---
 
         ### GitHub Stats
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=chjagadeeshgdvl-art&show_icons=true&theme=radical&hide_border=true" width="48%">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=chjagadeeshgdvl-art&theme=radical&hide_border=true" width="48%">
-        </div>div>
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chjagadeeshgdvl-art&show_icons=true&theme=radical&hide_border=true)
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chjagadeeshgdvl-art&theme=radical&hide_border=true)
         
